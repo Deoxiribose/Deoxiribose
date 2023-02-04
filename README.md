@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deoxiribose
+- 👋 Hi, I’m Jacob!
 - 👀 I’m interested in biology and analytics!
 - 🌱 I’m currently learning interactive coding with C++ and Python. 
 - 💞️ I’m looking to collaborate on anything for experience!
