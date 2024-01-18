@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob!
-- 👀 I’m interested in biology and analytics!
+- 👀 I’m interested in bioinformatics and overall computational biology!
 - 🌱 I’m currently learning interactive coding with C# and Python. 
 - 💞️ I’m looking to collaborate on anything for experience!
 
