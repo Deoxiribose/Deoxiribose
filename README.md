@@ -1,12 +1,12 @@
 # Hey, I’m Jacob Bradley
 
-I'm a graduate student finishing up my M.S. in Computer Science, with a background in Biology and a minor in Chemistry. My work bridges the gap between life sciences and software, with a focus on bioinformatics, computational biology, and real-world applications of machine learning in healthcare.
+I hold an M.S. in Computer Science, along with a B.S. in Biology and a minor in Chemistry. My work bridges the gap between life sciences and software, with a focus on bioinformatics, computational biology, and applying machine learning to real world healthcare problems.
 
 ---
 
 ## What I'm Into  
 - Turning raw biological data into something useful  
-- Applying machine learning to solve problems in health and biotech  
+- Applying machine learning and deep learning to health and biotech challenges
 - Building tools that actually matter — like NeuroBeats, a music app that adapts to your physiology
 
 ---
